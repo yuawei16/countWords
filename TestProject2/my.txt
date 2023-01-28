@@ -1,0 +1,16 @@
+This is my wife and my son. My son is 5 years old. They are my dearest ones in the world. 
+
+My name is William and my favorite sport is football.
+
+
+
+This is a wrong string: mbymby.
+This is an empty line.
+
+mayday mayday mmmm!
+
+He said:"My football skill is the best!"
+
+The new book's name is Oh-my-boy, not Oh-My-boy.
+
+Hi, this string "@my@" looks wired, but is can be matched.
